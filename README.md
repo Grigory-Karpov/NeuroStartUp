@@ -1,5 +1,5 @@
 # NeuroStartUp
-
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 ## Второй спринт
 
 - Улучшена производительность: скорость работы приложения выросла на 25%.
